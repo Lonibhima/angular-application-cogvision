@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cogvision-demo": {
+      "hosting": {
+        "cogtest": [
+          "cogvision-demo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "countdown-8bf2c"
+  }
+}
